@@ -10,8 +10,7 @@ from google.oauth2.credentials import Credentials
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
-# 704863758352-f7gckoj2ep8i60oski22q7ucviareo9t.apps.googleusercontent.com
-# TAN5Q20BcQPjSkvf5KEUFm6Q 
+
 
 def main():
     """Shows basic usage of the Google Calendar API.
